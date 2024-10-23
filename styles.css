@@ -1,1 +1,17 @@
 /* your code */
+table{
+	border-collapse:collapse;
+	border-radius:20px;
+	padding:6px;
+}
+th,td{padding:8px;
+	  text-align:left;
+	
+}
+#heading{
+	background-color:blue;
+	color:white;
+}
+#second,#fourth{
+	background-color:gray
+}
